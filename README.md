@@ -1,3 +1,4 @@
 # travis_tutorial
 Repository for Travis tutorial
-This is a test 09/21/2018 @ 11:38
+
+This repository was inspired by: https://github.com/luet/jenkins_tutorial
