@@ -3,7 +3,7 @@ import sys
 
 def recur_factorial(n):
    """Function to return the factorial
-   of a number using recursion"""
+   of a number using recursion - testing"""
    if n == 1:
        return n
    else:
